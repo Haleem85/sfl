@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sfl/static/css/main.3fc8148a.css",
+    "main.js": "/sfl/static/js/main.9fe2a735.js",
+    "static/js/787.3e2821c0.chunk.js": "/sfl/static/js/787.3e2821c0.chunk.js",
+    "static/media/about-bg.jpg": "/sfl/static/media/about-bg.973f25157e118ea212ef.jpg",
+    "index.html": "/sfl/index.html",
+    "main.3fc8148a.css.map": "/sfl/static/css/main.3fc8148a.css.map",
+    "main.9fe2a735.js.map": "/sfl/static/js/main.9fe2a735.js.map",
+    "787.3e2821c0.chunk.js.map": "/sfl/static/js/787.3e2821c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc8148a.css",
+    "static/js/main.9fe2a735.js"
+  ]
+}
